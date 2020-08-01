@@ -2,9 +2,9 @@ Verilen kelimedeki ilk tekil harfi ve konumunu yazdırınız.
 
 ## Girdi
 
-İngiliz alfabesindeki 26 küçük harften oluşan ~N~ uzunluğunda bir kelime. 
+İngiliz alfabesindeki 26 küçük harften oluşan N uzunluğunda bir kelime. 
 
-- ~1 \leq N \leq 10^5 ~
+- 1 <= N <= 10^5 
 
 ## Çıktı
 Verilen kelimedeki ilk tekil harfi ve konumu.

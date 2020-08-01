@@ -2,10 +2,10 @@ Verilen iki sayıyı toplayın.
 
 ## Girdi
 
-~T~ adet testcase ve her test case için ~N~ ve ~M~ şeklinde 2 adet sayı.
+T adet testcase ve her test case için N ve M şeklinde 2 adet sayı.
 
-- ~1 \leq T \leq 10^5 ~
-- ~-10^9 \leq N, M \leq 10^9 ~
+- 1 <= T <= 10^5 
+- -10^9 <= N, M <= 10^9 
 
 ## Çıktı
 Verilen iki sayının toplamı.
