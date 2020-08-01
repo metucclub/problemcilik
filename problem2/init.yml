@@ -1,0 +1,44 @@
+archive: tests.zip
+test_cases:
+  - points: 1
+    batched:
+    - {in: in/1.in, out: out/1.out}
+    - {in: in/2.in, out: out/2.out}
+    - {in: in/3.in, out: out/3.out}
+    - {in: in/4.in, out: out/4.out}
+    - {in: in/5.in, out: out/5.out}
+    - {in: in/6.in, out: out/6.out}
+    - {in: in/7.in, out: out/7.out}
+    - {in: in/8.in, out: out/8.out}
+    - {in: in/9.in, out: out/9.out}
+    - {in: in/10.in, out: out/10.out}
+    - {in: in/11.in, out: out/11.out}
+    - {in: in/12.in, out: out/12.out}
+    - {in: in/13.in, out: out/13.out}
+    - {in: in/14.in, out: out/14.out}
+    - {in: in/15.in, out: out/15.out}
+    - {in: in/16.in, out: out/16.out}
+    - {in: in/17.in, out: out/17.out}
+    - {in: in/18.in, out: out/18.out}
+    - {in: in/19.in, out: out/19.out}
+    - {in: in/20.in, out: out/20.out}
+    - {in: in/21.in, out: out/21.out}
+    - {in: in/22.in, out: out/22.out}
+    - {in: in/23.in, out: out/23.out}
+    - {in: in/24.in, out: out/24.out}
+    - {in: in/25.in, out: out/25.out}
+    - {in: in/26.in, out: out/26.out}
+    - {in: in/27.in, out: out/27.out}
+    - {in: in/28.in, out: out/28.out}
+    - {in: in/29.in, out: out/29.out}
+    - {in: in/30.in, out: out/30.out}
+    - {in: in/31.in, out: out/31.out}
+    - {in: in/32.in, out: out/32.out}
+    - {in: in/33.in, out: out/33.out}
+    - {in: in/34.in, out: out/34.out}
+    - {in: in/35.in, out: out/35.out}
+    - {in: in/36.in, out: out/36.out}
+    - {in: in/37.in, out: out/37.out}
+    - {in: in/38.in, out: out/38.out}
+    - {in: in/39.in, out: out/39.out}
+    - {in: in/40.in, out: out/40.out}
